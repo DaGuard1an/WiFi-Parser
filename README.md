@@ -1,2 +1,2 @@
 # WiFi-Parser
-Passively Monitors WiFi
+Passively Monitors WiFi and/or Parse WiFi logs
